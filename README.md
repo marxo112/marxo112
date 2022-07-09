@@ -16,4 +16,4 @@
 
 ![discord](https://img.shields.io/badge/Discord-x__PandaGo%238642-blue?style=for-the-badge&logo=discord&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpandago)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpandago&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
