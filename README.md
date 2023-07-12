@@ -5,7 +5,7 @@
 ## 🖥️ My PC
 
 ![i5-4th-gen](https://img.shields.io/badge/Intel-Core%20i5%204th%20Gen-blue?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-750 TI](https://img.shields.io/badge/NVIDIA-GTX%20750%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white)
+![gtx-750 TI](https://img.shields.io/badge/NVIDIA-GTX%201060%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
