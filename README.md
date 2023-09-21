@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello%2C+i'm+Marco!)](https://git.io/typing-svg)
 
-🎓 Hello, i'm a young programmer from Germany for Web Designs, Web Development and Lua Scripting in Roblox and FiveM (GTA5 Multiplayer, based for Roleplay).
+🎓 Hello, i'm a young programmer from Germany for Web Designs, Web Development and Lua Scripting in FiveM (GTA5 Multiplayer, based for Roleplay).
 
 ## 🖥️ My PC
 
