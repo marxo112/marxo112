@@ -13,7 +13,7 @@
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marxo112)
 
-![discord](https://img.shields.io/badge/Discord-marxo112-blue?style=for-the-badge&logo=discord&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-marxog-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marxo112&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
