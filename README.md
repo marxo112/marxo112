@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxo112&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xpandago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![wlianrodil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marxo112&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
