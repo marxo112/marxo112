@@ -34,5 +34,5 @@
 
 ## 🚀 My Current Projects
 
-- **Content Management System** for an 
+- **Content Management System** for managing and publishing content for an Online News Magazine
 - **Dispatch System** for Youth Fire Brigades
