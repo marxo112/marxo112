@@ -24,15 +24,6 @@
 
 ---
 
-## 📊 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marxo112&theme=radical&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marxo112&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🚀 My Current Projects
 
 - **Content Management System** for managing and publishing content for an Online News Magazine
-- **Dispatch System** for Youth Fire Brigades
