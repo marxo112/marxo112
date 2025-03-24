@@ -2,7 +2,7 @@
 
 ---
 
-🎓 **Marco**, 15 y/o, from **Saarbrücken**, Germany  
+🎓 **Marco**, 16 y/o, from **Saarbrücken**, Germany  
 💻 Passionate **Student**, **Developer** and member of the **Volunteer Fire Department**  
 🔧 Programming in **JavaScript** and **PHP**
 
